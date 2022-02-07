@@ -1,0 +1,5 @@
+dist
+.coverage_*
+coverage
+node_modules
+LICENSE
